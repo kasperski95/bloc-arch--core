@@ -7,4 +7,5 @@ tests
 src
 documentation
 .DS_Store
-.vscode
+.vscode/
+.travis.yml
