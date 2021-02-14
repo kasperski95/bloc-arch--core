@@ -6,3 +6,5 @@ jest.config.js
 tsconfig.json
 tests
 src
+documentation
+.DS_Store
