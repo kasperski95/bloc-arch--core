@@ -1,6 +1,5 @@
 node_modules
 coverage
-dist
 .gitignore
 jest.config.js
 tsconfig.json
@@ -8,3 +7,4 @@ tests
 src
 documentation
 .DS_Store
+.vscode
