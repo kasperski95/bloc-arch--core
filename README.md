@@ -14,7 +14,7 @@ BLoC (Business Logic Component) architecture is the most popular pattern for Flu
 ---
 
 ## Diagram
-![diagram](https://github.com/kasperski95/bloc-arch--core/tree/master/documentation/bloc.png)
+![diagram](https://raw.githubusercontent.com/kasperski95/bloc-arch--core/master/documentation/bloc.png)
 
 ## Related packages
 - @bloc-arch/cli - WIP
