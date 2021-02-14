@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest --runInBand",
     "test:cov": "jest --coverage --runInBand",
-    "coveralls": "npm run test:cov && cat ./tests/coverage/lcov.info | coveralls",
+    "coveralls": "npm run test:cov && cat ./coverage/lcov.info | coveralls",
     "ts": "tsc",
     "prepublish": "npm run ts"
   },
