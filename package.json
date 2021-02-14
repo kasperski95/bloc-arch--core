@@ -1,6 +1,6 @@
 {
   "name": "@bloc-arch/core",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "State management module for JS and TS.",
   "main": "dist/index.js",
   "scripts": {
