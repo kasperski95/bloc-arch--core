@@ -11,7 +11,12 @@
     "prepublish": "npm run ts"
   },
   "keywords": [
-    "bloc, state, management, business, logic, component"
+    "bloc",
+    "state",
+    "management",
+    "business",
+    "logic",
+    "component"
   ],
   "author": "Arkadiusz Kasprzyk",
   "license": "MIT",
